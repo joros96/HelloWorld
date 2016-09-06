@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/joros/AndroidStudioProjects/HelloWorld/HelloWorld.iml" filepath="/Volumes/DATA/Users/joros/AndroidStudioProjects/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/joros/AndroidStudioProjects/HelloWorld/aboutme/aboutme.iml" filepath="/Volumes/DATA/Users/joros/AndroidStudioProjects/HelloWorld/aboutme/aboutme.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/joros/AndroidStudioProjects/HelloWorld/app/app.iml" filepath="/Volumes/DATA/Users/joros/AndroidStudioProjects/HelloWorld/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/joros/AndroidStudioProjects/HelloWorld/initializevariables/initializevariables.iml" filepath="/Volumes/DATA/Users/joros/AndroidStudioProjects/HelloWorld/initializevariables/initializevariables.iml" />
+    </modules>
+  </component>
+</project>
